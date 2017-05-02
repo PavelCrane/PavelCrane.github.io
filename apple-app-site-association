@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PGB36VEQ8D.ru.yandex.mobile.realty",
+        "paths": [
+          "/newbuilding/*",
+          "/*/novostrojka/?*"
+        ]
+      }
+    ]
+  }
+}
