@@ -6,7 +6,7 @@
         "appID": "PGB36VEQ8D.ru.yandex.mobile.realty",
         "paths": [
           "/newbuilding/*",
-          "/*/novostrojka/?*"
+          "/*/novostrojka/*"
         ]
       }
     ]
