@@ -3,10 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "LTDT7YA3GZ.ru.yandex.mobile.realty",
+        "appID": "PGB36VEQ8D.ru.yandex.mobile.realty",
         "paths": [
-          "/newbuilding/*",
-          "/*/novostrojka/*"
+          "*"
         ]
       }
     ]
