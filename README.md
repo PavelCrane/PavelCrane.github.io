@@ -22,4 +22,4 @@
 
 [Def Link 10](https://bzfk.adj.st/dk93w7?deep_link=https://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=3A718949-8FEB-4E49-B2FD-182C3AD87BB0)
 
-[Def Link 11](https://bzfk.adj.st/dk93w7?deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=3A718949-8FEB-4E49-B2FD-182C3AD87BB0
+[Def Link 11](https://bzfk.adj.st/dk93w7?deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=3A718949-8FEB-4E49-B2FD-182C3AD87BB0)
