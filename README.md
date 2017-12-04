@@ -24,10 +24,10 @@
 
 [Def Link 11](https://bzfk.adj.st/dk93w7?deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=3A718949-8FEB-4E49-B2FD-182C3AD87BB0)
 
-[Def Link 12](https://app.adjust.com/i4cm2h?campaign=test&deep_link=https://realty.yandex.ru/offer/9146091558836037121)
+[Def Link 12](https://app.adjust.com/9vp3jv?deep_link=https://realty.yandex.ru/offer/9146091558836037122)
 
 [Def Link 13](https://app.adjust.com/dk93w7?deep_link=https://realty.yandex.ru/offer/9146091558836037121)
 
-[Def Link 14](https://app.adjust.com/i4cm2h?campaign=test&deep_link=https%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES)
+[Def Link 14](https://app.adjust.com/9vp3jv?deep_link=https%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES)
 
 [Def Link 15](https://app.adjust.com/dk93w7?deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037121)
