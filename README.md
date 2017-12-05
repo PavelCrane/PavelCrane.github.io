@@ -44,7 +44,7 @@
 [Def Link 19](https://app.adjust.com/dk93w7?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
 
 
-[Def Link 20](https://app.adjust.com/mxe38o?idfa=A1EDA914-3B8B-460A-B72E-657669B4F143&deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
+[Def Link 20](https://app.adjust.com/mxe38o?idfa=6AC0129C-1B60-4CDB-9B10-81EB5808C9A5&deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
 
-[Def Link 21](https://app.adjust.com/mxe38o?idfa=A1EDA914-3B8B-460A-B72E-657669B4F143&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
+[Def Link 21](https://app.adjust.com/mxe38o?idfa=6AC0129C-1B60-4CDB-9B10-81EB5808C9A5&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
 
