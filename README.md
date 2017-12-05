@@ -48,3 +48,7 @@
 
 [Def Link 21](https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&idfa=6AC0129C-1B60-4CDB-9B10-81EB5808C9A5&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0)
 
+
+[Def Link 22](https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0)
+
+[Def Link 23](https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0)
