@@ -49,12 +49,12 @@
 [Def Link 21](https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&idfa=6AC0129C-1B60-4CDB-9B10-81EB5808C9A5&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0)
 
 
-[Def Link 22](https://app.adjust.com/9vp3jv?campaign=test&deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0&idfa=42AD498D-74D1-40FC-850A-8662FF62D084)
+[Def Link 22](https://app.adjust.com/9vp3jv?campaign=test&deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0&idfa=9927F9F0-0DEF-43E3-87CA-587B092511C8)
 
-[Def Link 23](https://app.adjust.com/9vp3jv?campaign=test&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0&42AD498D-74D1-40FC-850A-8662FF62D084)
+[Def Link 23](https://app.adjust.com/9vp3jv?campaign=test&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0&idfa=9927F9F0-0DEF-43E3-87CA-587B092511C8)
 
 
-[Def Link 24](https://app.adjust.com/9vp3jv?campaign=test&deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=42AD498D-74D1-40FC-850A-8662FF62D084)
+[Def Link 24](https://app.adjust.com/9vp3jv?campaign=test&deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=9927F9F0-0DEF-43E3-87CA-587B092511C8)
 
-[Def Link 25](https://app.adjust.com/9vp3jv?campaign=test&deep_link=yandexrealty://realty.yandex.ru/offer/9146091558836037120&idfa=42AD498D-74D1-40FC-850A-8662FF62D084)
+[Def Link 25](https://app.adjust.com/9vp3jv?campaign=test&deep_link=yandexrealty://realty.yandex.ru/offer/9146091558836037120&idfa=9927F9F0-0DEF-43E3-87CA-587B092511C8)
 
