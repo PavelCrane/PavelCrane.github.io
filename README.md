@@ -44,3 +44,5 @@
 [Def Link 25](https://app.adjust.com/yruv3k?deep_link=yandexrealty://realty.yandex.ru/offer/9146091558836037120&idfa=D9FC7092-3B1A-4AD2-9D48-78384F4C7310)
 
 [26](https://m.realty.yandex.ru/offer/9146091558836037120)
+
+[27](https://bzfk.adj.st/newbuilding/23105?adjust_t=dk93w7)
