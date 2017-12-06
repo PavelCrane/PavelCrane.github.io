@@ -33,7 +33,7 @@
 
 [Def Link 24](https://app.adjust.com/yruv3k?campaign=deff_links_test&deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=D9FC7092-3B1A-4AD2-9D48-78384F4C7310)
 
-[Def Link 25](https://app.adjust.com/yruv3k?deep_link=yandexrealty://realty.yandex.ru/offer/9146091558836037120&idfa=D9FC7092-3B1A-4AD2-9D48-78384F4C7310)
+[Def Link 25](https://app.adjust.com/yruv3k?deeplink=yandexrealty://realty.yandex.ru/offer/9146091558836037120)
 
 [26](https://m.realty.yandex.ru/offer/9146091558836037120)
 
