@@ -17,13 +17,13 @@
 [Def Link 15](https://app.adjust.com/dk93w7?deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
 
 
-[Def Link 18](https://app.adjust.com/dk93w7?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&rt=0&idfa=9C531DD4-ADA3-47AC-9961-D500FE7F193D)
+[Def Link 18](https://app.adjust.com/dk93w7?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&rt=0&idfa=232C4EEC-8F64-4788-9E66-C2A218405845)
 
-[Def Link 19](https://app.adjust.com/qimg1e?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&idfa=9C531DD4-ADA3-47AC-9961-D500FE7F193D)
+[Def Link 19](https://app.adjust.com/qimg1e?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&idfa=232C4EEC-8F64-4788-9E66-C2A218405845)
 
-[Def Link 20](https://app.adjust.com/dk93w7?deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=9C531DD4-ADA3-47AC-9961-D500FE7F193D)
+[Def Link 20](https://app.adjust.com/dk93w7?deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=232C4EEC-8F64-4788-9E66-C2A218405845)
 
-[Def Link 21](https://app.adjust.com/qimg1e?deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=9C531DD4-ADA3-47AC-9961-D500FE7F193D)
+[Def Link 21](https://app.adjust.com/qimg1e?deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=232C4EEC-8F64-4788-9E66-C2A218405845)
 
 
 [Def Link 22](https://app.adjust.com/yruv3k?deep_link=https%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120&rt=0&idfa=D9FC7092-3B1A-4AD2-9D48-78384F4C7310)
