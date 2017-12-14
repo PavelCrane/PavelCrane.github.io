@@ -4,7 +4,7 @@
 
 [Def Link 4](https://app.adjust.com/i4cm2h?campaign=test&deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira)
 
-[Def Link 6](https://app.adjust.com/dk93w7?deep_link=https://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=3A718949-8FEB-4E49-B2FD-182C3AD87BB0)
+[Def Link 6](https://app.adjust.com/dk93w7?deep_link=https://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=868237B8-D9B9-40E2-9237-58FC18F092FA)
 
 [Def Link 7](https://app.adjust.com/dk93w7?deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=3A718949-8FEB-4E49-B2FD-182C3AD87BB0)
 
