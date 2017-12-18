@@ -1,5 +1,5 @@
 
-[Def Link 1](https://app.adjust.com/i4cm2h?campaign=test&deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=E4E2175B-842D-47D8-8583-CF4ACE833F7F)
+[Def Link 1](https://app.adjust.com/82y9zo?campaign=new&deep_link=yandexrealty://realty.yandex.ru/deeplink/mskkupit1kvartira)
 
 [Def Link 2](https://app.adjust.com/dk93w7?deep_link=https://realty.yandex.ru/deeplink/mskkupit1kvartira&idfa=E4E2175B-842D-47D8-8583-CF4ACE833F7F)
 
