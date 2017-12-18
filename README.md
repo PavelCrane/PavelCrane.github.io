@@ -12,7 +12,7 @@
 
 [Def Link 18](https://app.adjust.com/dk93w7?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&rt=0)
 
-[Def Link 19](https://app.adjust.com/qimg1e?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&rt=0)
+[Def Link 19](https://app.adjust.com/qimg1e?deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F%3FnewFlat%3DYES&rt=0&idfa=077A881A-3F55-4EA5-AC12-84EB78752625)
 
 [Def Link 21](https://app.adjust.com/qimg1e?deep_link=https://realty.yandex.ru/offer/9146091558836037120&idfa=E0280E9D-69A8-432D-A3F3-133730832FB8)
 
