@@ -20,6 +20,8 @@
 
 [Def Link 22](https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Foffer%2F9146091558836037120)
 
+https://app.adjust.com/i4cm2h?campaign=test&deep_link=https://realty.yandex.ru/moskva/kupit/kvartira/?newFlat=YES
+
 
 [Def Link 23](https://app.adjust.com/9vp3jv?deep_link=https://realty.yandex.ru/offer/9146091558836037120)
 
