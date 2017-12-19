@@ -23,6 +23,9 @@
 https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fmoskva%2Fkupit%2Fkvartira%2F
 
 
+https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=yandexrealty%3A%2F%2Frealty.yandex.ru%2Fnewbuilding%2F23105
+
+
 [Def Link 23](https://app.adjust.com/9vp3jv?deep_link=https://realty.yandex.ru/offer/9146091558836037120)
 
 
