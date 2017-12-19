@@ -22,11 +22,11 @@
 
 https://app.adjust.com/i4cm2h?campaign=test&deep_link=https://realty.yandex.ru/moskva/kupit/novostrojka
 
-https://app.adjust.com/i4cm2h?campaign=test&deep_link=https://realty.yandex.ru/moskva/kupit/kvartira/?newFlat=YES
+https://app.adjust.com/i4cm2h?deep_link=https://realty.yandex.ru/moskva/kupit/kvartira/?newFlat=YES
 
-https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=https://realty.yandex.ru/moskva/kupit/novostrojka
+https://app.adjust.com/qimg1e?deep_link=https://realty.yandex.ru/moskva/kupit/novostrojka
 
-https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=https://realty.yandex.ru/moskva/kupit/kvartira/?newFlat=YES
+https://app.adjust.com/qimg1e?deep_link=https://realty.yandex.ru/moskva/kupit/kvartira/?newFlat=YES
 
 https://app.adjust.com/qimg1e?campaign=def_deeplinks_test&deep_link=https://realty.yandex.ru/moskva/kupit/kvartira
 
